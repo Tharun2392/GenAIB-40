@@ -10,3 +10,4 @@ https://github.com/Tharun2392/GenAIB-40/blob/main/2303A52386_week5_ASSIGNMENT_5.
 
 https://github.com/Tharun2392/GenAIB-40/blob/main/2303A52386_Week6_Assignment_6_2.ipynb
 
+https://github.com/Tharun2392/GenAIB-40/blob/main/ASSIGNMENT_7_2_GENAI.ipynb
